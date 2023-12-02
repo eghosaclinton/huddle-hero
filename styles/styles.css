@@ -16,7 +16,6 @@ body{
 h1{
     font-weight: 600;
     font-size: 1.5em;
-    margin: 0;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -26,7 +25,6 @@ p{
 
 header, main{
     width: 85%;
-    margin: 0;
     margin-inline: auto;
     max-width: 1300px;
 }
@@ -40,8 +38,8 @@ main{
     flex-direction: column;
     text-align: center;
     color: #fff;
-    margin-top: 2.5vh;
-    gap: 1.5rem;
+    margin-top: 7.5vh;
+    gap: 2rem;
 }
 
 #logo{
@@ -49,7 +47,6 @@ main{
 }
 
 .container{
-    margin: 0;
     width: 100%;
 }
 
