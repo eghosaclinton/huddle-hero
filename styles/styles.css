@@ -26,6 +26,7 @@ p{
 
 header, main{
     width: 85%;
+    margin: 0;
     margin-inline: auto;
     max-width: 1300px;
 }
@@ -39,7 +40,7 @@ main{
     flex-direction: column;
     text-align: center;
     color: #fff;
-    margin-top: 5vh;
+    margin-top: 2.5vh;
     gap: 1.5rem;
 }
 
@@ -48,6 +49,7 @@ main{
 }
 
 .container{
+    margin: 0;
     width: 100%;
 }
 
