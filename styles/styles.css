@@ -38,8 +38,8 @@ main{
     flex-direction: column;
     text-align: center;
     color: #fff;
-    margin-top: 10vh;
-    gap: 2rem;
+    margin-top: 7.5vh;
+    gap: 1.5rem;
 }
 
 #logo{
